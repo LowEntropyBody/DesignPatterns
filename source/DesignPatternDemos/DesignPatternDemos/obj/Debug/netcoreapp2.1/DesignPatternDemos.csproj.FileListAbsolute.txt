@@ -1,0 +1,8 @@
+D:\Code\Reference\DesignPatterns\source\DesignPatternDemos\DesignPatternDemos\bin\Debug\netcoreapp2.1\DesignPatternDemos.deps.json
+D:\Code\Reference\DesignPatterns\source\DesignPatternDemos\DesignPatternDemos\bin\Debug\netcoreapp2.1\DesignPatternDemos.runtimeconfig.json
+D:\Code\Reference\DesignPatterns\source\DesignPatternDemos\DesignPatternDemos\bin\Debug\netcoreapp2.1\DesignPatternDemos.runtimeconfig.dev.json
+D:\Code\Reference\DesignPatterns\source\DesignPatternDemos\DesignPatternDemos\bin\Debug\netcoreapp2.1\DesignPatternDemos.dll
+D:\Code\Reference\DesignPatterns\source\DesignPatternDemos\DesignPatternDemos\obj\Debug\netcoreapp2.1\DesignPatternDemos.csprojAssemblyReference.cache
+D:\Code\Reference\DesignPatterns\source\DesignPatternDemos\DesignPatternDemos\obj\Debug\netcoreapp2.1\DesignPatternDemos.csproj.CoreCompileInputs.cache
+D:\Code\Reference\DesignPatterns\source\DesignPatternDemos\DesignPatternDemos\obj\Debug\netcoreapp2.1\DesignPatternDemos.AssemblyInfoInputs.cache
+D:\Code\Reference\DesignPatterns\source\DesignPatternDemos\DesignPatternDemos\obj\Debug\netcoreapp2.1\DesignPatternDemos.AssemblyInfo.cs
